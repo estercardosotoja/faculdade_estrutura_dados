@@ -3,6 +3,9 @@
 
 /* 
 ** Ponteiros
+
+Um ponteiro (= apontador = pointer) é um tipo especial de variável que armazena um endereço.
+
     - O & é um operador unário que devolve o endereço na memória do seu operando;
     - O * é um operador unário que devolve o valor da variável localizada no
 endereço que segue; 
