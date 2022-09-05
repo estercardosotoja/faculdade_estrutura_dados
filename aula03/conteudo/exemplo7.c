@@ -5,8 +5,8 @@
 
 //Declaracao da Estrutura da Lista
 struct nodo{
-int dados;
-struct nodo *prox;
+    int dados;
+    struct nodo *prox;
 };
 
 //Funcao Insere a Esquerda

@@ -7,10 +7,10 @@ main(){
     void insere(){
         lista *novo=NULL;
         novo = (lista*) malloc (sizeof (lista));
-        if (!novo){
-            printf("\nNao existe espaco na memoria!");
-            exit(1);
-    }
+            if (!novo){
+                printf("\nNao existe espaco na memoria!");
+                exit(1);
+        }
     printf("\nDigite a matricula: ");
     scanf("%d",&novo->mat);
     printf("\nDigite o nome: ");

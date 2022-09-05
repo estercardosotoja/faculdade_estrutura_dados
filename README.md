@@ -17,8 +17,12 @@ Atividades e Conteúdos das aulas de Estruturas de Dados
 
 ## Aula 03
 
-- Listas Encadeadas
-    - Alocação Estática
-    - Alocação Dinâmica
+- Listas Simplesmente Encadeadas
+ . Alocação Estática
+ . Alocação Dinâmica
 
-    - Listas Simplesmente Encadeadas
+## Aula 04
+
+- Listas Duplamente Encadeadas
+ . Alocação Estática
+ . Alocação Dinâmica

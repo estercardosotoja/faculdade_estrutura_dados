@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-//Função para busca sequencial:
+//Funcao para busca sequencial:
 
     void busca(){
     int matbusca,encontrou=0;
